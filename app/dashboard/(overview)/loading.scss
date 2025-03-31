@@ -1,0 +1,15 @@
+.loading{
+
+    &-wrapper{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        width: 50%;
+        height: 50%;
+        color: #fff;
+        background-color: black;
+        border-radius: 8px;
+    }
+}
